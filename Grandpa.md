@@ -6,7 +6,7 @@ Du reist nun in die Vergangenheit um deinen Urururgroßvater vor dem Tod zu bewa
 
 Das Gameplay besteht aus mehreren Phasen.
 - In der ersten Phase erkundet der Spieler die Höhle selbst (in First-Person) und kann Gegenstände sammeln und Fallen entschärfen
-- Danach können diese Gegenstände in einer Top-Down-Ansicht platziert werden um den Urururgroßvater zu leiten.
+- Danach können diese Gegenstände in einer Top-Down-Ansicht platziert werden um den Urururgroßvater zu leiten. Allerdings nur an Stellen die man als Spieler auch gesehen hat
 - Ist die Zeit abgelaufen betritt der Urururgroßvater die Höhle und der Spieler ist nur noch Beobachter.
 
 Komplettes Design Dokument findet sich [hier](Grandpas_Adventure.pdf)
