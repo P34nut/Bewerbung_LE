@@ -7,3 +7,5 @@ Nachfolgend nun ein paar Beiträge, welche während der Zeit enstanden sind
 
 - Beitrag zur Ideenfindung [hier](GLFtv/Ideenfindung.mp4)
 - Beitrag zur DSGVO [hier](GLFtv/DSGVO.mp4)
+
+Mehr über GLF [hier](https://glftv.de/)
