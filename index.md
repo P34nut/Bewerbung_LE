@@ -7,5 +7,5 @@ You can use the [editor on GitHub](https://github.com/P34nut/Bewerbung_Mimimi/ed
 Nachfolgend findet ihr alle möglichen Unterlagen, welche für eine erfolgreiche Bewerbung eben so nötig sind.
 
 ## [Anschreiben]()
-## [Lebenslauf](Lebenslauf Linus.pdf)
+## [Lebenslauf](Lebenslauf.pdf)
 
