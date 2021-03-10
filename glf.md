@@ -5,5 +5,5 @@ Außerdem gab es auch Livesendungen in welchen ich in einem Semester als Zuspiel
 
 Nachfolgend nun ein paar Beiträge, welche während der Zeit enstanden sind
 
-- Beitrag zur Ideenfindung [hier](GLFtv/Ideenfindung.mp4) TODO
-- Beitrag zur DSGVO [hier](GLFtv/DSGVO.mp4) TODO
+- Beitrag zur Ideenfindung [hier](GLFtv/Ideenfindung.mp4)
+- Beitrag zur DSGVO [hier](GLFtv/DSGVO.mp4)
