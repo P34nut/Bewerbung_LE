@@ -1,4 +1,4 @@
-Das Spiel ‘Schritte im Schatten’ ist eine einzigartige Übertragung des Point'n Click Konzeptes in ein Full Motion Video Game. Der Spieler wird zurück in die neunziger Jahre versetzt und durchlebt interaktiv die Abenteuer des Privatdetektivs René Kamp.
+Das Spiel *Schritte im Schatten* ist eine einzigartige Übertragung des Point'n Click Konzeptes in ein Full Motion Video Game. Der Spieler wird zurück in die neunziger Jahre versetzt und durchlebt interaktiv die Abenteuer des Privatdetektivs René Kamp.
 Wird er seinen neuesten Fall lösen und damit seiner Vergangenheit entkommen? Es liegt an dir.
 
 Das Spiel entstand während des Projektstudiums während meines Bachelorstudiums, welches sich über zwei Semester zieht
