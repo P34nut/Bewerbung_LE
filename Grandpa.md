@@ -11,6 +11,6 @@ Das Gameplay besteht aus mehreren Phasen.
 
 Komplettes Design Dokument findet sich [hier](Grandpas_Adventure.pdf)
 
-Prototyp [hier]() spielbar TODO
+Prototyp [hier](Game/index.html) spielbar
 
 Code findet sich [hier]() TODO
