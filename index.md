@@ -4,5 +4,5 @@ Nachfolgend findet ihr alle möglichen Unterlagen, welche für eine erfolgreiche
 
 ### [Anschreiben](anschreiben.md)
 ### [Lebenslauf](Lebenslauf.pdf)
-### [Zeugnisse](zeugnisse.pdf)
+### [Zeugnisse](Zeugnisse.pdf)
 ### [Portfolio](portfolio.md)
