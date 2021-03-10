@@ -10,5 +10,7 @@ Das Gameplay besteht aus mehreren Phasen.
 - Ist die Zeit abgelaufen betritt der Urururgroßvater die Höhle und der Spieler ist nur noch Beobachter.
 
 Komplettes Design Dokument findet sich [hier](Grandpas_Adventure.pdf)
+
 Prototyp [hier]() spielbar TODO
+
 Code findet sich [hier]() TODO
