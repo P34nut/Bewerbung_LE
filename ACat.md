@@ -9,7 +9,7 @@ Es müssen dann in der Vergangenheit kleine Rätsel gelöst werden um am Ende de
 
 Weitere Infos über das Museum finden sich auf deren [Website](https://www.tuebingen.de/stadtmuseum/)
 
-Design Dokument befindet sich [hier](https://github.com/P34nut/A_Cat_In_Time/blob/master/Abgabe/Game%20Design%20Dokument.pdf)
+Design Dokument befindet sich [hier](Cat_Design.pdf)
 
 Code befindet sich [hier](https://github.com/P34nut/A_Cat_In_Time)
 
