@@ -8,5 +8,9 @@ Dabei einstand das Spiel A Cat in Time, in welchem der Spieler durch das heutige
 Es müssen dann in der Vergangenheit kleine Rätsel gelöst werden um am Ende der Geisterkatze zu helfen, sich wieder mit ihrem Körper zu vereinen.
 
 Weitere Infos über das Museum finden sich auf deren [Website](https://www.tuebingen.de/stadtmuseum/)
+
+Design Dokument befindet sich [hier](https://github.com/P34nut/A_Cat_In_Time/blob/master/Abgabe/Game%20Design%20Dokument.pdf)
+
 Code befindet sich [hier](https://github.com/P34nut/A_Cat_In_Time)
+
 Download der App [hier]() TODO
