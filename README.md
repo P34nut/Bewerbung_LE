@@ -1,2 +1,2 @@
-# Bewerbung Mimimi Games GmbH
+# Bewerbung
 Bewerbungsunterlagen
