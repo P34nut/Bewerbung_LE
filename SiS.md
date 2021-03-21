@@ -1,9 +1,9 @@
 Das Spiel *Schritte im Schatten* ist eine einzigartige Übertragung des Point'n Click Konzeptes in ein Full Motion Video Game. Der Spieler wird zurück in die neunziger Jahre versetzt und durchlebt interaktiv die Abenteuer des Privatdetektivs René Kamp.
 Wird er seinen neuesten Fall lösen und damit seiner Vergangenheit entkommen? Es liegt an dir.
 
-Das Spiel entstand während des Projektstudiums während meines Bachelorstudiums, welches sich über zwei Semester zieht
+Das Spiel entstand während des Projektstudiums während meines Bachelorstudiums, welches sich über zwei Semester zog.
 
-Im ersten Semester wurde im Team gemeinsam eine Story und damit verbunden das Drehbuch entwickelt. Hier musste sehr viel durchdacht und geplant werden, da jede Szene vorhanden sein musste. Später einfach eine Szene oder andere Kameraperspektive hinzuzufügen ist, im Gegensatz zu herkömmlicher 2D- oder 3D Grafik, nicht möglich.
+Im ersten Semester wurde im Team gemeinsam eine Story und damit verbunden das Drehbuch entwickelt. Hier musste sehr viel durchdacht und geplant werden, da jede Szene vorhanden sein musste. Später einfach eine Szene oder andere Kameraperspektive hinzuzufügen war, im Gegensatz zu herkömmlicher 2D- oder 3D Grafik, nicht möglich.
 
 Im zweiten Semester bestand meine Aufgabe darin, die alleinige Programmierung zu übernehmen. Hierzu wurde die Engine Unity3D benutzt. 
 Ich habe in der Zeit sehr viel über die Programmierung gelernt und mir die Sprache C# währenddessen selbst beigebracht, da wir bis zu diesem Zeitpunkt nur Java und Javascript gelernt hatten. 
