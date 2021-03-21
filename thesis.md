@@ -1,8 +1,7 @@
 Nachfolgend meine Bachelorthesis mit dem Titel *Analyse der Komponenten eines Videospiels zur erfolgreichen Umsetzung einer guten Bindung des Spielers zur Hauptfigur*
 
 
-**Abstract:**
-  
+**Abstract:**\  
 Die vorliegende Bachelorarbeit beleuchtet die verschiedenen Komponenten,
 die wichtig für eine gute Bindung zur Hauptfigur sind und deren Einfluss
 auf den Erfolg von Videospielen. Es werden die theoretischen Grundlagen
