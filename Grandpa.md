@@ -1,5 +1,5 @@
 Bei Grandpas Adventure handelt es sich um ein WebGL Spiel, welches im Rahmen des Bachelorkurses *Game Design* entstanden ist. 
-Es wurde hier zuerst ein Konzept für ein analoges Spiel entwickelt, welches in einem zweiten Schritt dann in einen WebGL fähigen Prototypen umgesetzt werden sollte.
+Es wurde hier zuerst ein Konzept für ein analoges Spiel entwickelt, welches in einem zweiten Schritt in einen WebGL fähigen Prototypen umgesetzt werden sollte.
 
 Grandpas Adventure handelt von deinem Urururgroßvater, welcher ein großer Schatzsucher war. Allerdings verlor er auf einer seiner Expeditionen sein Leben.
 Du reist nun in die Vergangenheit um deinen Urururgroßvater vor dem Tod zu bewahren. 
