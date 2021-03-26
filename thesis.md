@@ -13,4 +13,4 @@ Videospiel zu entwickeln. Diese Bachelorarbeit ist somit interessant für alle,
 die noch nicht viel Erfahrung mit der Videospielentwicklung haben und ein
 erfolgreiches Spiel mit interessanten Figuren auf den Markt bringen wollen.
 
-pdf findet sich [hier](Thesis_Linus_Ehmann.pdf)
+Thesis findet sich [hier](Thesis_Linus_Ehmann.pdf)
