@@ -14,3 +14,5 @@ die noch nicht viel Erfahrung mit der Videospielentwicklung haben und ein
 erfolgreiches Spiel mit interessanten Figuren auf den Markt bringen wollen.
 
 Thesis findet sich [hier](Thesis_Linus_Ehmann.pdf)
+
+[zurück](portfolio.md)
