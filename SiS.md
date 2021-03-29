@@ -13,8 +13,10 @@ Das Projekt war ein voller Erfolg, da die Leistung mit dem Medien- und IT-Preis 
 Weitere Infos über das Projekt finden sich auf der [Website des Spiels](https://schritte-im-schatten.de/). 
 
 Dort kann auch eine Demo heruntergeladen werden.
-Diese ist aber noch aus dem Jahr 2017. Seitdem wurden einige Bugs aus dem Spiel entfernet und auch englische Untertitel hinzugefügt, sodass das Spiel in Zukunft veröffentlicht werden kann.
+Diese ist aber noch aus dem Jahr 2017. Seitdem wurden einige Bugs aus dem Spiel entfernt und auch englische Untertitel hinzugefügt, sodass das Spiel in Zukunft veröffentlicht werden kann.
 
 Einblick in den Code finden sich [hier](https://github.com/P34nut/Schritte-im-Schatten/).
 
 Hierbei ist noch einmal zu erwähnen, dass dies mein erstes wirkliches Unity Projekt war und der Code dementsprechend unschön ist und ich heute vieles anders machen würde. 
+
+[zurück](portfolio.md)
