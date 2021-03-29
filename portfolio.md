@@ -1,4 +1,4 @@
-Im folgenden finden sich einige Projekte, welche vorallem während des Studiums enstanden sind.
+Im Folgenden finden sich einige Projekte, welche vor allem während des Studiums entstanden sind.
 
 - [Schritte im Schatten](SiS.md)
 - [A Cat in Time](ACat.md)
