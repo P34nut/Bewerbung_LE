@@ -1,4 +1,4 @@
-### Projekte an denen ich gearbeitet habe als ich bei [upjers](upjers.md) gearbeitet habe.
+### Projekte an denen ich bei [upjers](upjers.md) gearbeitet habe.
 - [Wurzelimperium 2](upjers.md#wurzelimperium-2)
 - [My Free Farm 3](upjers.md#my-free-farm-3)
 - [My Free Zoo](upjers.md#my-free-zoo)
